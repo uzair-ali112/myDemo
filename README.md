@@ -1,4 +1,4 @@
 # myDemo
 This is my first Git Repository.
 <br>
-Author -  Uzair Ali
+Author -  Uzair (Khaskheli)
